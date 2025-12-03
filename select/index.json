@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Identity",
+  "base_artist": "MISAMO",
+  "createdAt": "2025-12-03T06:49:00.298490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Identity Trade",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/01_Identity_Trade_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Identity (Zaxx Remix) - Sakura Chill Beats Singles",
+      "artist": "Kiro Akiyama",
+      "has_synced": false,
+      "path": "select/02_Identity_(Zaxx_Remix)_-_Sakura_Chill_Beats_Singles_Kiro_Akiyama.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mistaken Identity",
+      "artist": "Kim Carnes",
+      "has_synced": false,
+      "path": "select/03_Mistaken_Identity_Kim_Carnes.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mistaken Identity",
+      "artist": "Living In a Box",
+      "has_synced": false,
+      "path": "select/04_Mistaken_Identity_Living_In_a_Box.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shadow Identity",
+      "artist": "Atari Teenage Riot",
+      "has_synced": true,
+      "path": "select/05_Shadow_Identity_Atari_Teenage_Riot.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fear of My Identity",
+      "artist": "Best Coast",
+      "has_synced": true,
+      "path": "select/06_Fear_of_My_Identity_Best_Coast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Identity",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/07_Identity_Austra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/08_Identity_Crisis_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Identity",
+      "artist": "Mortal Love",
+      "has_synced": false,
+      "path": "select/09_Identity_Mortal_Love.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mistaken Identity (Remastered)",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/10_Mistaken_Identity_(Remastered)_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mistaken Identity",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/11_Mistaken_Identity_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Identity Theft",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/12_Identity_Theft_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mistaken Identity",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/13_Mistaken_Identity_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Identity",
+      "artist": "Bush",
+      "has_synced": true,
+      "path": "select/14_Identity_Bush.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Identity",
+      "artist": "Glude",
+      "has_synced": true,
+      "path": "select/15_Identity_Glude.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Secret Identity",
+      "artist": "Aviators",
+      "has_synced": true,
+      "path": "select/16_Secret_Identity_Aviators.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Identity Disorder",
+      "artist": "Of Mice & Men",
+      "has_synced": true,
+      "path": "select/17_Identity_Disorder_Of_Mice_&_Men.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Identity Disorder",
+      "artist": "Of Mice & Men",
+      "has_synced": true,
+      "path": "select/18_Identity_Disorder_Of_Mice_&_Men.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Identity",
+      "artist": "Moe Shop feat. Seij",
+      "has_synced": true,
+      "path": "select/19_Identity_Moe_Shop_feat._Seij.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Identity",
+      "artist": "MISAMO",
+      "has_synced": false,
+      "path": "select/pl_01_Identity_MISAMO.txt"
+    }
+  ]
+}
